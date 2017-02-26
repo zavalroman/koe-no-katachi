@@ -15,9 +15,9 @@ Video File: /home/kaktus/flashgot/映画「聲の形」公開記念特番_～映
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 22
-Active Line: 31
-Video Position: 4018
+Scroll Position: 23
+Active Line: 32
+Video Position: 4185
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,4 +57,5 @@ Dialogue: 0,0:01:58.41,0:02:00.51,Default,,0,0,0,,и из главаря [опу
 Dialogue: 0,0:02:02.96,0:02:04.92,Default,,0,0,0,,Течение времени остановилось и [он] остался наедине со своей болью.
 Dialogue: 0,0:02:06.06,0:02:10.48,Default,,0,0,0,,Это история, в которой один молодой человек
 Dialogue: 0,0:02:10.80,0:02:14.06,Default,,0,0,0,,пытается “принять” своего “партнера” и себя.
-Dialogue: 0,0:02:14.06,0:02:16.06,Default,,0,0,0,,
+Dialogue: 0,0:02:16.18,0:02:19.63,Default,,0,0,0,,“Форма голоса”, за авторством Ёситоки Оима,
+Dialogue: 0,0:02:19.63,0:02:21.63,Default,,0,0,0,,
