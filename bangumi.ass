@@ -16,8 +16,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 26
-Active Line: 33
-Video Position: 4320
+Active Line: 31
+Video Position: 4082
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,5 +58,3 @@ Dialogue: 0,0:02:02.96,0:02:04.92,Default,,0,0,0,,Течение времени 
 Dialogue: 0,0:02:06.06,0:02:10.48,Default,,0,0,0,,Это история, в которой один молодой человек
 Dialogue: 0,0:02:10.80,0:02:14.06,Default,,0,0,0,,пытается “принять” своего “партнера” и себя.
 Dialogue: 0,0:02:16.18,0:02:21.06,Default,,0,0,0,,“Форма голоса”, за авторством Ёситоки Оима, в 2008 году
-Dialogue: 0,0:02:21.06,0:02:24.13,Default,,0,0,0,,bla-bla-bla
-Dialogue: 0,0:02:24.13,0:02:26.13,Default,,0,0,0,,
